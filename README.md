@@ -102,12 +102,6 @@ In collaboration with: **Aivancity School for Technology, Business & Society**
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🌐 Connect With Us
 
 If you have questions, feedback, or would like to collaborate, feel free to reach out:
