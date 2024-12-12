@@ -65,13 +65,13 @@ Our work aligns with AIGriTech’s goals of achieving sustainable growth through
 Here are some highlights of our visual insights:
 
 1. **Wine Surplus and Deficit Across Regions**  
-![Surplus vs. Deficit](results/visuals/surplus_deficit.png)
+![Surplus vs. Deficit](results/surplus_deficit.png)
 
 2. **Production vs. Consumption Correlation**  
-![Correlation Graph](results/visuals/correlation_graph.png)
+![Correlation Graph](results/correlation_graph.png)
 
 3. **Trends (2018-2022)**  
-![Trend Analysis](results/visuals/trend_analysis.png)
+![Trend Analysis](results/trend_analysis.png)
 
 ---
 
