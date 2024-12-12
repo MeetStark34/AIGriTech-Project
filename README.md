@@ -93,7 +93,7 @@ Here are some highlights of our visual insights:
 
 This project was a team effort by:
 - **Dhruvilsinh Rathod**
-- **Meet Patel** (You!)
+- **Meet Patel**
 - **Hil Patel**
 - **Kashish Mahavar**
 
