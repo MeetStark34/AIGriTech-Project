@@ -105,6 +105,8 @@ In collaboration with: **Aivancity School for Technology, Business & Society**
 ## 🌐 Connect With Us
 
 If you have questions, feedback, or would like to collaborate, feel free to reach out:
+- **Dhruvilsinh Rathod**: dhruvilsinhrathod24@gmail.com
+| +33 7 53 31 29 52
 - **Meet Patel**: starkmeet@gmail.com | +33 669242248
 
 ---
